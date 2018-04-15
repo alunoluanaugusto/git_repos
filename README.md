@@ -1,3 +1,5 @@
 iniciando projeto
 
-add novas formas
+add arquivo index
+
+add arquivo css
