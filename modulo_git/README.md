@@ -1,4 +1,4 @@
-iniciando projeto (alterado e atualizado)
+iniciando projeto
 
 add arquivo index
 
